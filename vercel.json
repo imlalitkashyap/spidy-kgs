@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kgs.spidyuniverse.in/$1",
+      "permanent": true
+    }
+  ]
+}
